@@ -1,4 +1,4 @@
-**Ariel Amzallag - CV**
+# Ariel Amzallag - CV
 
 This repository contains the source code for Ariel Amzallag's CV. It is a simple HTML, CSS, and JavaScript-based web page that showcases Ariel's skills, education, and work experiences.
 
