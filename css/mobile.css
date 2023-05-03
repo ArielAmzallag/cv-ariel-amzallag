@@ -5,11 +5,23 @@
       flex-wrap: nowrap;
     }
     
-    aside, main {
+    aside, main, header {
       width: 100%;
       padding: 20px;
       margin: 0;
       border-radius: 0px;
+    }
+    
+    aside {
+      order: 2;
+    }
+
+    main {
+      order: 3;
+    }
+
+    header {
+      order: 1;
     }
     
     aside button {
