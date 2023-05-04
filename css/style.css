@@ -229,3 +229,7 @@ transition: 0.3s;
 .toggleList {
 display: none;
 }
+
+#language-selector {
+    display: inline-flex;
+}
